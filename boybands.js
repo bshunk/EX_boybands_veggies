@@ -14,16 +14,23 @@ var currentVeggie = "Carrots";
 var bandElement = document.getElementById(bands);
 
 // Get a reference to the appropriate DOM element for vegetables
-var veggieElement = ???;
+var veggieElement = document.getElementById(vegetables);
 
 // Start looping
 for (var loopTracker = 0; loopTracker < loopCount; loopTracker += 1) {
   
-  // Add the band names into the correct <div>
-  currentBand = ???;
-
+    // Add the band names into the correct <div>
+	currentBand = 
+	console.log(currentBand);  
   
-  // Add the veggie names into the correct <div>
-  currentVeggie = ???;
+	// Add the veggie names into the correct <div>
+	currentVeggie = 
+	console.log(currentVeggie);
+};
 
-}
+
+
+
+
+
+
