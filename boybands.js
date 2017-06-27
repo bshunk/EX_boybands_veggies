@@ -1,4 +1,4 @@
-console.log("Hello there, mate!")
+console.log("Ahoy, mate!")
 
 var bands = ["Boyz II Men", "NSync", "New Kids on the Block", "98 Degrees", "One Direction"];
 var vegetables = ["Carrots", "Kale", "Zucchini", "Broccoli", "Squash"];
